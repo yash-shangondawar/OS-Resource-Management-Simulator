@@ -72,6 +72,7 @@ os_simulator.exe
 - Internal fragmentation concepts
 - C++ STL vectors and queues
 - Modular C++ design
+- Object-Oriented Programming
 
 ## Suggested Extensions
 
@@ -80,7 +81,3 @@ os_simulator.exe
 - Add paging simulation
 - Add a graphical visualization layer
 - Add automated unit tests
-
-## Note
-
-This is a learning project. Understand and test the implementation before using it in academic, interview, or professional contexts.
