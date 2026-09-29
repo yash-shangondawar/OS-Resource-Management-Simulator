@@ -1,0 +1,6 @@
+*.exe
+*.out
+os_simulator
+.vscode/
+.idea/
+build/
